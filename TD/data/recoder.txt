@@ -1,0 +1,15 @@
+PlayerName=Inanyway
+PlayerLv=1
+PlayerMoney=0
+PlayerExp=0
+PlayerPassed=0
+levels=3
+solider=1
+slv=1
+sr=40
+archer=1
+alv=1
+ar=150
+rider=0
+rlv=0
+rr=80

@@ -1,0 +1,13 @@
+solider=1
+srate=240
+slv=1
+archer=0
+arate=0
+alv=0
+rider=0
+rrate=0
+rlv=0
+exp=10
+money=100
+lv=1
+HP=1200
